@@ -16,6 +16,13 @@ all_pages = {
         st.Page("pages/class3-5.py", title="猜數字遊戲", icon="🎲"),
         st.Page("pages/class4-1.py", title="圖片元件", icon="🖼️"),
         st.Page("pages/class4-2.py", title="購物平台", icon="🛒"),
+        st.Page("pages/class5-4.py", title="對話紀錄", icon="💬"),
+        st.Page("pages/class5-5.py", title="對話輸入", icon="✍️"),
+        st.Page("pages/class5-6.py", title="對話AI機器人", icon="🤖"),
+        st.Page("pages/class5-7.py", title="圖片上傳", icon="🖼️"),
+        st.Page("pages/class5-8.py", title="AI圖片辨識", icon="🔍"),
+        st.Page("pages/class5-9.py", title="網頁載入動畫", icon="⏳"),
+        st.Page("pages/class5-10.py", title="AI圖像生成", icon="🖼️"),
     ],
 }
 
